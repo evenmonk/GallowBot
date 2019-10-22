@@ -1,0 +1,4 @@
+Hello, I'm Gallowbot. Everything I know how to do is described here.
++ All commands are starting with --
+
+--help (Show help)
